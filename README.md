@@ -1,6 +1,6 @@
-DEMO PROJECT : my-todo-app.freevnn.com
+## DEMO PROJECT : my-todo-app.freevnn.com
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+__This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).__
 
 ## Available Scripts
 
